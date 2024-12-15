@@ -1,18 +1,33 @@
-## Getting Started
+# Java Quiz Application
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This document provides instructions on how to run a simple Java program that implements a multiple-choice quiz.
 
-## Folder Structure
+**Features:**
 
-The workspace contains two folders by default, where:
+* Presents a series of ten multiple-choice questions to the user.
+* Collects user answers and calculates the score.
+* Displays the final score and percentage.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Running the Program:**
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. **Compile the code:**
+   ```bash
+   javac QuizApp.java questions_answers.java
+   Run the program:
+Bash
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+java QuizApp
+To Use:
 
-## Dependency Management
+Run the program.
+Answer each question by entering the corresponding letter (A, B, C, or D).
+The program will display your final score and percentage.
+Author:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+SOURAV DEBNATH
+
+Note:
+
+This README file assumes you have the Java Development Kit (JDK) installed and configured in your system's environment variables.
+This version does not include instructions for version control using Git.
+This version of the README focuses on the core information needed to run the program without relying on Git.
