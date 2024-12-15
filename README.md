@@ -27,13 +27,14 @@ This project was created as a learning exercise to:
 1. **Compile the code:**
    ```bash
    javac QuizApp.java questions_answers.java
-Run the program:
-java QuizApp
+2. **Run the program:**
+   ```bash
+   java QuizApp
+
 To Use:
 
 Run the program.
 Answer each question by entering the corresponding letter (A, B, C, or D).
 The program will display your final score and percentage.
 Author:
-
 SOURAV DEBNATH
