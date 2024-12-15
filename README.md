@@ -1,6 +1,20 @@
 # Java Quiz Application
 
-This document provides instructions on how to run a simple Java program that implements a multiple-choice quiz.
+This repository contains a simple Java program that implements a multiple-choice quiz. 
+
+**Background:**
+
+This project was created as a learning exercise to:
+
+* **Demonstrate understanding of fundamental Java concepts:** 
+    * Object-Oriented Programming (OOP) principles: classes, objects, methods.
+    * Data types, variables, and control flow statements.
+    * User input/output using the `Scanner` class.
+* **Practice problem-solving and algorithm design:** 
+    * Designing the program logic for question presentation, answer collection, and score calculation.
+* **Develop basic programming skills:** 
+    * Writing clean, well-structured, and readable code.
+    * Testing and debugging the program to ensure correctness.
 
 **Features:**
 
@@ -13,7 +27,7 @@ This document provides instructions on how to run a simple Java program that imp
 1. **Compile the code:**
    ```bash
    javac QuizApp.java questions_answers.java
-   Run the program:
+Run the program:
 Bash
 
 java QuizApp
@@ -25,9 +39,3 @@ The program will display your final score and percentage.
 Author:
 
 SOURAV DEBNATH
-
-Note:
-
-This README file assumes you have the Java Development Kit (JDK) installed and configured in your system's environment variables.
-This version does not include instructions for version control using Git.
-This version of the README focuses on the core information needed to run the program without relying on Git.
