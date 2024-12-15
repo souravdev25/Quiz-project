@@ -36,5 +36,9 @@ To Use:
 Run the program.
 Answer each question by entering the corresponding letter (A, B, C, or D).
 The program will display your final score and percentage.
+
+
 Author:
+
+
 SOURAV DEBNATH
