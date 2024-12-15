@@ -28,8 +28,6 @@ This project was created as a learning exercise to:
    ```bash
    javac QuizApp.java questions_answers.java
 Run the program:
-Bash
-
 java QuizApp
 To Use:
 
